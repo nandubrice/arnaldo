@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nandubrice/arnaldo.git/static/css/main.1223497c.css",
-    "main.js": "/nandubrice/arnaldo.git/static/js/main.2636bcfe.js",
-    "static/js/787.cc4e593a.chunk.js": "/nandubrice/arnaldo.git/static/js/787.cc4e593a.chunk.js",
-    "index.html": "/nandubrice/arnaldo.git/index.html",
-    "main.1223497c.css.map": "/nandubrice/arnaldo.git/static/css/main.1223497c.css.map",
-    "main.2636bcfe.js.map": "/nandubrice/arnaldo.git/static/js/main.2636bcfe.js.map",
-    "787.cc4e593a.chunk.js.map": "/nandubrice/arnaldo.git/static/js/787.cc4e593a.chunk.js.map"
+    "main.css": "/arnaldo/static/css/main.1223497c.css",
+    "main.js": "/arnaldo/static/js/main.64097745.js",
+    "static/js/787.cc4e593a.chunk.js": "/arnaldo/static/js/787.cc4e593a.chunk.js",
+    "index.html": "/arnaldo/index.html",
+    "main.1223497c.css.map": "/arnaldo/static/css/main.1223497c.css.map",
+    "main.64097745.js.map": "/arnaldo/static/js/main.64097745.js.map",
+    "787.cc4e593a.chunk.js.map": "/arnaldo/static/js/787.cc4e593a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1223497c.css",
-    "static/js/main.2636bcfe.js"
+    "static/js/main.64097745.js"
   ]
 }
